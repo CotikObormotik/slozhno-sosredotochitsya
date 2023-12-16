@@ -9,7 +9,6 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
-  background-color: var(--accent-backgraund-color);
   --accent-backgraund-color: #ff0070;
   --accent-color: #000028;
   --color-title: #ff0070;
@@ -20,4 +19,5 @@
   --link-shadow: #ff0070;
   --link-decor: #f1b2ce;
   --footer-shadow: 2px 2px 0px #ff0070;
+  background-image: url(../images/cover-image-dark.png);
 }
